@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"async-mutex": "^0.4.0",
 		"force-graph": "^1.43.0"
 	}
 }
